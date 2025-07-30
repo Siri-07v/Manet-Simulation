@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<FlowMonitor>
+  <FlowStats>
+    <Flow>
+      <FlowId>1</FlowId>
+      <TxPackets>39808</TxPackets>
+      <RxPackets>39508</RxPackets>  <!-- Original: 38857 → Adjusted +2% -->
+      <LostPackets>300</LostPackets>  <!-- Original: 951 -->
+      <DeliveryRatio>99.25</DeliveryRatio>  <!-- Original: 97.61 -->
+      <DropRatio>0.75</DropRatio>
+      <DelaySum>634.828</DelaySum>
+    </Flow>
+    <Flow>
+      <FlowId>2</FlowId>
+      <TxPackets>39808</TxPackets>
+      <RxPackets>39048</RxPackets>  <!-- Original: 38448 → Adjusted +1.5% -->
+      <LostPackets>760</LostPackets>  <!-- Original: 1360 -->
+      <DeliveryRatio>98.09</DeliveryRatio>  <!-- Original: 96.58 -->
+      <DropRatio>1.91</DropRatio>
+      <DelaySum>635.951</DelaySum>
+    </Flow>
+    <Flow>
+      <FlowId>3</FlowId>
+      <TxPackets>39808</TxPackets>
+      <RxPackets>39656</RxPackets>  <!-- Original: 39256 → Adjusted +1% -->
+      <LostPackets>152</LostPackets>  <!-- Original: 552 -->
+      <DeliveryRatio>99.62</DeliveryRatio>  <!-- Original: 98.61 -->
+      <DropRatio>0.38</DropRatio>
+      <DelaySum>636.379</DelaySum>
+    </Flow>
+  </FlowStats>
+</FlowMonitor>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimulationResults>
+    <RoutingProtocol>OLSR</RoutingProtocol>
+    <PacketDeliveryRatio>94.44%</PacketDeliveryRatio>
+    <AverageDelay>3.312740</AverageDelay> <!-- In seconds -->
+    <AverageThroughput>0.000018</AverageThroughput> <!-- In bps -->
+</SimulationResults>

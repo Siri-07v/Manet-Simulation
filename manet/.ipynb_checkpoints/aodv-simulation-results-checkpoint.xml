@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimulationResults>
+    <RoutingProtocol>AODV</RoutingProtocol>
+    <PacketDeliveryRatio>98.75%</PacketDeliveryRatio>
+    <AverageDelay>2.456320</AverageDelay> <!-- In seconds -->
+    <AverageThroughput>0.000025</AverageThroughput> <!-- In bps -->
+</SimulationResults>
